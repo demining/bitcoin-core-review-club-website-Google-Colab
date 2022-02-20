@@ -1,5 +1,14 @@
 # bitcoin-core-review-club
 
+
+-------------------------
+### Run Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 Simple Jekyll site for hosting the Bitcoin Core PR Review club at https://bitcoincore.reviews/.
 
 ## Development
